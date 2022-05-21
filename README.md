@@ -1,8 +1,1 @@
-- 👋 Hi, I’m @TobbeBob123
-- 👀 I’m interested in Linux and Window manager
-- 🌱 I’m currently learning Linux
-
-<!---
-TobbeBob123/TobbeBob123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hey, I am Tobbebob. I make rice of Xmonad and Xmobar just to name some of my repo and I make some script for a hobby. I hope I can help some new users.
